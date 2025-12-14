@@ -2,6 +2,7 @@
   "name": "my-react-app",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://pragatikumawat.github.io/Portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
