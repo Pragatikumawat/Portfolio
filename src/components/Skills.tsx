@@ -2,7 +2,7 @@ import React from 'react'
 
 const skillList = ['TypeScript', 'React', 'JavaScript', 'HTML', 'CSS', 'Node.js', 'Git', 'GitHub', 'Vite',
      'Jest', 'Cypress', 
-     'Postman', 'Mantis Bug Tracker', 'Active collab', 'Microsoft excel', 'Google sheet excel', 'Selenium', 'Appium', 'Appium inspector', 'Vysor.']
+     'Postman', 'Mantis Bug Tracker', 'Active collab', 'Google sheet excel', 'Selenium', 'Appium', 'Appium inspector', 'Vysor.']
 
 export default function Skills() {
   return (
