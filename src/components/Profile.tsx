@@ -1,4 +1,5 @@
 import React from 'react'
+import avatar from '../assets/default-avatar.svg'
 
 export default function Profile() {
   return (
@@ -6,7 +7,7 @@ export default function Profile() {
       <div className="container">
         <div className="profile-card">
           <div className="profile-header">
-            <img className="avatar" src="/src/assets/default-avatar.svg" alt="Pragati kumawat" />
+            <img className="avatar" src={avatar} alt="Pragati kumawat" />
             <h1>Pragati kumawat</h1>
           </div>
           <p>
